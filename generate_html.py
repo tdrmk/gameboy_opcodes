@@ -1,7 +1,7 @@
 import json
 import os
 filename = 'instructions.json'
-output_filename = 'index.html'
+output_filename = 'docs/index.html'
 
 if not os.path.exists(filename):
     import scrap_instructions
