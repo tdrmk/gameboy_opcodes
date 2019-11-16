@@ -4,4 +4,4 @@ Opcode table can be found at https://www.pastraiser.com/cpu/gameboy/gameboy_opco
 However has some bugs. Which is fixed here.
 
 Updated page with fixes can be found at:
-https://tdineshramkumar.github.io/gameboy_opcodes/index.html
+https://tdrmk.github.io/gameboy_opcodes/index.html
